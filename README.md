@@ -2,7 +2,8 @@
 
 Here are all environment for Leia  
 
-<br>
+<br>  
+
 ## Notebooks  
 1. lora_trainer_leia.ipynb -- Stable Diffusion LoRA trainer
 2. sd_webui_leia.ipynb -- Stable Diffusion WebUI
