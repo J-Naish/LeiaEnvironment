@@ -1,4 +1,4 @@
-# Here are all environment for Leia  
+# Here are all environments for Leia  
 <br>
   
 ## Notebooks  
